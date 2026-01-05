@@ -1,4 +1,4 @@
-# BYOK AI Desktop
+# BYOK AI Messenger
 
 A lightweight Windows desktop application for AI chatting. Bring your own API key and start chatting!
 
